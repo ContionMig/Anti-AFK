@@ -1,5 +1,5 @@
 # Anti-AFK
-[[My Website]](https://theherobrine9.wixsite.com/website/)
+[[My Website]](http://sagaanpillai.com/)
 
 # Discription
 Just a simple anti-afk by pressing w,a,s,d randomly every second.
